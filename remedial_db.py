@@ -1,5 +1,5 @@
 import sqlite3
-
+#database connection
 DB_NAME = 'remedial_class.db'
 
 def get_connection():
